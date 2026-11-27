@@ -1,0 +1,167 @@
+{
+  "adoption_notice": "원문 HTML과 4주 추이 자동 대조. 공식 후속 발표의 과거 수치 변경은 전후·출처·별도 정정 사유 미확인 사실을 기록. 전년 비교는 미검증(null).",
+  "data_kind": "official_kdca_aggregate_only",
+  "interpretation_caution": "2026년 36주 인플루엔자 표본감시기관 확대. 2025년 비교는 해당 주차 원문 확인 자료에 한정.",
+  "latest": {
+    "document_no": "20261125170119381",
+    "published_on": "2026-11-25",
+    "url": "https://dportal.kdca.go.kr/pot/bbs/BD_selectBbs.do?q_bbsDocNo=20261125170119381&q_bbsSn=1010&q_clsfNo=2",
+    "week": 47,
+    "year": 2026
+  },
+  "publication_status": "auto_validated",
+  "revision_history": [
+    {
+      "after": 226,
+      "approval_basis": "official_followup_standing_policy",
+      "approved": true,
+      "approved_on": "2026-11-27",
+      "before": 224,
+      "metric": "covid",
+      "originalSource": "https://dportal.kdca.go.kr/pot/bbs/BD_selectBbs.do?q_bbsDocNo=20261119172118068&q_bbsSn=1010&q_clsfNo=2",
+      "reason_status": "not_separately_confirmed",
+      "source": "https://dportal.kdca.go.kr/pot/bbs/BD_selectBbs.do?q_bbsDocNo=20261125170119381&q_bbsSn=1010&q_clsfNo=2",
+      "week": 46,
+      "year": 2026
+    }
+  ],
+  "schema": "kdca-verified-weekly/v1",
+  "source_baseline": "weather_dashboard_spec_v15.8_20261124.md/HTML v19.5(공개 자료 승인 전 시험 기준선)",
+  "verification": {
+    "method": "official_html_body_and_4week_trend_consistency",
+    "pdf_crosscheck": "not_independent",
+    "scope": "approved_2026_weeks_official_followup_revisions_logged",
+    "source_sha256": "9dc8bbdef0511ff78f5d311bfae9a58f89a627e969552eff9f671df8be7245d4",
+    "yoy_status": "unverified_null"
+  },
+  "weeks": [
+    {
+      "covid_hospital_admissions": 48,
+      "covid_prior": 272,
+      "ili_per_1000_outpatients": 7.0,
+      "ili_prior": 4.9,
+      "week": 32,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 57,
+      "covid_prior": 302,
+      "ili_per_1000_outpatients": 7.5,
+      "ili_prior": 5.8,
+      "week": 33,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 61,
+      "covid_prior": 367,
+      "ili_per_1000_outpatients": 9.2,
+      "ili_prior": 6.0,
+      "week": 34,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 115,
+      "covid_prior": 406,
+      "ili_per_1000_outpatients": 13.3,
+      "ili_prior": 6.4,
+      "week": 35,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 196,
+      "covid_prior": 433,
+      "ili_per_1000_outpatients": 25.3,
+      "ili_prior": 6.6,
+      "week": 36,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 308,
+      "covid_prior": 459,
+      "ili_per_1000_outpatients": 31.0,
+      "ili_prior": 6.7,
+      "week": 37,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 337,
+      "covid_prior": 432,
+      "ili_per_1000_outpatients": 32.3,
+      "ili_prior": 8.0,
+      "week": 38,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 248,
+      "covid_prior": 399,
+      "ili_per_1000_outpatients": 33.0,
+      "ili_prior": 9.0,
+      "week": 39,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 291,
+      "covid_prior": 305,
+      "ili_per_1000_outpatients": 23.6,
+      "ili_prior": 12.1,
+      "week": 40,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 241,
+      "covid_prior": 228,
+      "ili_per_1000_outpatients": 21.6,
+      "ili_prior": 14.5,
+      "week": 41,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 223,
+      "covid_prior": 196,
+      "ili_per_1000_outpatients": 17.7,
+      "ili_prior": 7.9,
+      "week": 42,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 208,
+      "covid_prior": 180,
+      "ili_per_1000_outpatients": 19.2,
+      "ili_prior": 13.6,
+      "week": 43,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 174,
+      "covid_prior": 201,
+      "ili_per_1000_outpatients": 22.8,
+      "ili_prior": 22.8,
+      "week": 44,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 196,
+      "covid_prior": 153,
+      "ili_per_1000_outpatients": 28.9,
+      "ili_prior": 50.7,
+      "week": 45,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 226,
+      "covid_prior": 145,
+      "ili_per_1000_outpatients": 37.0,
+      "ili_prior": 66.3,
+      "week": 46,
+      "year": 2026
+    },
+    {
+      "covid_hospital_admissions": 215,
+      "covid_prior": null,
+      "ili_per_1000_outpatients": 41.1,
+      "ili_prior": null,
+      "week": 47,
+      "year": 2026
+    }
+  ]
+}
